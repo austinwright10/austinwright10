@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @austinwright10
+- 👋 Hi, I’m Austin Wright
 - 👀 I’m interested in software development and AI
 - 🌱 I’m currently learning python and web development
 - 📫 How to reach me: austwright10@gmail.com
