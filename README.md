@@ -1,6 +1,6 @@
-- 👋 I’m Austin Wright!
-- 👀 I’m interested in Web Development and Data Analysis
-- 📫 Reach me at: austwright10@gmail.com
+- I’m Austin Wright!
+- I’m a Junior Computer Science Student at UVU
+- Reach me at: austwright10@gmail.com
 
 <!---
 austinwright10/austinwright10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
