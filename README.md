@@ -1,4 +1,4 @@
-- I’m Austin Wright!
+- I’m Austin Wright
 - I’m a Junior Computer Science Student at UVU
 - Reach me at: austwright10@gmail.com
 
