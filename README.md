@@ -1,6 +1,5 @@
 - 👋 I’m Austin Wright!
 - 👀 I’m interested in Web Development and Data Analysis
-- 🌱 I’m currently learning Python, C++, Algorithms & Data Structures, and Web Development
 - 📫 Reach me at: austwright10@gmail.com
 
 <!---
