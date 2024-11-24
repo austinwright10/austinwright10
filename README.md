@@ -1,6 +1,8 @@
 # Austin Wright
 
 ## 🎓 Senior Computer Science Student  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=austinwright10&show_icons=true&theme=radical)
+
 
 
 ### Skills  
