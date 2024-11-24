@@ -1,7 +1,6 @@
 # Austin Wright
 
 ## 🎓 Senior Computer Science Student  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austinwright10&layout=compact&theme=radical)
 
 
 
